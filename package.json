@@ -22,7 +22,7 @@
         "vue": "^2.5.13"
     },
     "dependencies": {
-        "laravel-echo": "^1.5.3",
+        "laravel-echo": "^1.11.3",
         "pusher-js": "^4.2.1",
         "vue-strap": "github:wffranco/vue-strap",
         "vue-timeago": "^3.3.6"
